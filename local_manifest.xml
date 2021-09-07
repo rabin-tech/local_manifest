@@ -3,8 +3,8 @@
 
  <!-- Trees -->
  <project path="device/xiaomi/tulip" name="rabin-tech/bliss_device_xiaomi_tulip.git" remote="github" revision="r" />
- <project path="vendor/xiaomi/tulip" name="CherishOS-Devices/vendor_xiaomi_tulip.git" remote="github" revision="r" />
- <project path="kernel/xiaomi/sdm660" name="AOSPK-Devices/kernel_xiaomi_sdm660.git" remote="github" revision="eleven" />
+ <project path="vendor/xiaomi/tulip" name="rabin-tech/bliss_vendor_xiaomi_tulip.git" remote="github" revision="r" />
+ <project path="kernel/xiaomi/sdm660" name="Sixzz9/kernel-xiaomi-sdm660.git" remote="github" revision="eas" />
  <project path="vendor/miuicamera" name="rabin-tech/vendor_miuicamera.git" remote="github" revision="eleven" />
  <project path="vendor/xiaomi/dirac" name="rabin-tech/vendor_xiaomi_dirac.git" remote="github" revision="11" />
  
