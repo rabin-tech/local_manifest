@@ -7,7 +7,6 @@
  <project path="kernel/xiaomi/sdm660" name="AOSPK-Devices/kernel_xiaomi_sdm660.git" remote="github" revision="eleven" />
  <project path="vendor/miuicamera" name="rabin-tech/vendor_miuicamera.git" remote="github" revision="eleven" />
  <project path="vendor/xiaomi/dirac" name="rabin-tech/vendor_xiaomi_dirac.git" remote="github" revision="11" />
- <project path="vendor/xiaomi/dirac" name="rabin-tech/vendor_xiaomi_dirac.git" remote="github" revision="11" />
  <remove-project name="hardware/qcom-caf/msm8998/display" />
  <remove-project name="hardware/qcom-caf/msm8998/media" />
  <remove-project name="hardware/qcom-caf/msm8998/audio" />
