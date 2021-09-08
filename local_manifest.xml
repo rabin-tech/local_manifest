@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/tulip" name="rabin-tech/bliss_device_xiaomi_tulip.git" remote="github" revision="r" />
+ <project path="device/xiaomi/tulip" name="CherishOS-Devices/device_xiaomi_tulip.git" remote="github" revision="r" />
  <project path="vendor/xiaomi/tulip" name="rabin-tech/bliss_vendor_xiaomi_tulip.git" remote="github" revision="r" />
  <project path="kernel/xiaomi/sdm660" name="Sixzz9/kernel-xiaomi-sdm660.git" remote="github" revision="eas" />
  <project path="vendor/miuicamera" name="rabin-tech/vendor_miuicamera.git" remote="github" revision="eleven" />
